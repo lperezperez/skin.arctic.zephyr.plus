@@ -1,6 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Foundation -->
 <fonts>
+    <fontset id="Condensed" unicode="true">
+        <font>
+            <name>LargeBold</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>64</size>
+        </font>
+        <font>
+            <name>Large</name>
+            <filename>Fira Sans Condensed Regular.ttf</filename>
+            <size>64</size>
+        </font>
+        <font>
+            <name>LargeRatings</name>
+            <filename>Fira Sans Condensed Bold.ttf</filename>
+            <size>72</size>
+        </font>
+        <font>
+            <name>Lyrics</name>
+            <filename>Fira Sans Condensed Thin.ttf</filename>
+            <size>48</size>
+        </font>
+        <font>
+            <name>EpisodeNumber</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>112</size>
+        </font>
+        <font>
+            <name>OffsetTracksNumber</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>80</size>
+        </font>
+        <font>
+            <name>Medium</name>
+            <filename>Fira Sans Condensed Thin.ttf</filename>
+            <size>40</size>
+        </font>
+        <font>
+            <name>MediumBold</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>40</size>
+        </font>
+        <font>
+            <name>Small</name>
+            <filename>Fira Sans Condensed Regular.ttf</filename>
+            <size>32</size>
+        </font>
+        <font>
+            <name>SmallBold</name>
+            <filename>Bebas Neue Regular.ttf</filename>
+            <size>40</size>
+        </font>
+        <font>
+            <name>Tiny</name>
+            <filename>Fira Sans Condensed Regular.ttf</filename>
+            <size>28</size>
+        </font>
+        <font>
+            <name>TinyBold</name>
+            <filename>Bebas Neue Regular.ttf</filename>
+            <size>28</size>
+        </font>
+        <font>
+            <name>Mini</name>
+            <filename>Fira Sans Condensed Regular.ttf</filename>
+            <size>24</size>
+        </font>
+        <font>
+            <name>Button</name>
+            <filename>Fira Sans Condensed Regular.ttf</filename>
+            <size>24</size>
+        </font>
+        <font>
+            <name>Flag</name>
+            <filename>Bebas Neue Regular.ttf</filename>
+            <size>32</size>
+        </font>
+        <font>
+            <name>EPGTimeline</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>24</size>
+        </font>
+        <font>
+            <name>Home</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>36</size>
+        </font>
+        <font>
+            <name>HomeFO</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>48</size>
+        </font>
+        <font>
+            <name>HomeIcon</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>52</size>
+        </font>
+        <font>
+            <name>WidgetSelector</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>32</size>
+        </font>
+        <!-- Required for system -->
+        <font>
+            <name>font13</name>
+            <filename>Fira Sans Condensed Regular.ttf</filename>
+            <size>32</size>
+        </font>
+        <font>
+            <name>Clock</name>
+            <filename>Bebas Neue Bold.ttf</filename>
+            <size>24</size>
+        </font>
+    </fontset>
     <fontset id="Default" unicode="true">
         <font>
             <name>LargeBold</name>
@@ -12,25 +125,22 @@
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>48</size>
         </font>
-		
-		<font>
+        <font>
             <name>LargeRatings</name>
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>60</size>
         </font>
-		
         <font>
             <name>Lyrics</name>
             <filename>RobotoCondensed-Light.ttf</filename>
             <size>48</size>
         </font>
-
         <font>
             <name>EpisodeNumber</name>
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>100</size>
         </font>
-		<font>
+        <font>
             <name>OffsetTracksNumber</name>
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>75</size>
@@ -45,7 +155,6 @@
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>38</size>
         </font>
-
         <font>
             <name>Small</name>
             <filename>RobotoCondensed-Regular.ttf</filename>
@@ -56,8 +165,6 @@
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>32</size>
         </font>
-
-
         <font>
             <name>Tiny</name>
             <filename>RobotoCondensed-Regular.ttf</filename>
@@ -79,7 +186,6 @@
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>24</size>
         </font>
-
         <font>
             <name>Flag</name>
             <style>uppercase</style>
@@ -110,14 +216,12 @@
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>26</size>
         </font>
-
         <font>
             <name>WidgetSelector</name>
             <style>uppercase</style>
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>22</size>
         </font>
-
         <!-- Required for system -->
         <font>
             <name>font13</name>
@@ -129,11 +233,8 @@
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>130</size>
         </font>
-
     </fontset>
-
     <fontset id="Fallback Arial" unicode="true">
-
         <font>
             <name>LargeBold</name>
             <style>uppercase</style>
@@ -165,7 +266,6 @@
             <filename>arial.ttf</filename>
             <size>38</size>
         </font>
-
         <font>
             <name>Small</name>
             <filename>arial.ttf</filename>
@@ -176,8 +276,6 @@
             <filename>arial.ttf</filename>
             <size>32</size>
         </font>
-
-
         <font>
             <name>Tiny</name>
             <filename>arial.ttf</filename>
@@ -199,7 +297,6 @@
             <filename>arial.ttf</filename>
             <size>24</size>
         </font>
-
         <font>
             <name>Flag</name>
             <style>uppercase</style>
@@ -230,16 +327,12 @@
             <filename>arial.ttf</filename>
             <size>26</size>
         </font>
-
         <font>
             <name>WidgetSelector</name>
             <style>uppercase</style>
             <filename>arial.ttf</filename>
             <size>22</size>
         </font>
-
-
-
         <!-- Required for system -->
         <font>
             <name>font13</name>
@@ -251,11 +344,8 @@
             <filename>arial.ttf</filename>
             <size>130</size>
         </font>
-
     </fontset>
-
     <fontset id="Large" unicode="true">
-
         <font>
             <name>LargeBold</name>
             <style>uppercase</style>
@@ -287,7 +377,6 @@
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>38</size>
         </font>
-
         <font>
             <name>Small</name>
             <filename>RobotoCondensed-Regular.ttf</filename>
@@ -298,8 +387,6 @@
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>34</size>
         </font>
-
-
         <font>
             <name>Tiny</name>
             <filename>RobotoCondensed-Regular.ttf</filename>
@@ -322,7 +409,6 @@
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>28</size>
         </font>
-
         <font>
             <name>Flag</name>
             <style>uppercase</style>
@@ -353,14 +439,12 @@
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>26</size>
         </font>
-
         <font>
             <name>WidgetSelector</name>
             <style>uppercase</style>
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>22</size>
         </font>
-
         <!-- Required for system -->
         <font>
             <name>font13</name>
@@ -372,9 +456,5 @@
             <filename>RobotoCondensed-Bold.ttf</filename>
             <size>130</size>
         </font>
-
     </fontset>
-
-
-
 </fonts>
