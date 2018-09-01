@@ -19,7 +19,7 @@
     <color name="Light3">4d333333</color>
     <color name="Light4">1f333333</color>
 
-    <color name="Background">00ffffff</color>
-    <color name="FanartFade">00ffffff</color>
-    <color name="FloorFade">00ffffff</color>
+    <color name="Background">11ffffff</color>
+    <color name="FanartFade">11ffffff</color>
+    <color name="FloorFade">11ffffff</color>
 </colors>
