@@ -9,3 +9,11 @@ Installing the latest version
 4) Compress that folder again into a ZIP file. 
 5) In Kodi, use that ZIP file (and not the original one) to install the plugin in Settings --> Addons --> Install from ZIP file.
 6) You are done!
+
+NOTE:
+Due to bugs and issues with some of the following add-ons from the official Kodi repository, you will need to download
+the latest versions of the following (from their respective GIT repositories) to have full and proper function:
+1) script.image.resource.select.zip
+2) script.module.cherrypy.zip
+3) script.skin.helper.service.zip
+4) script.skin.helper.widgets.zip
