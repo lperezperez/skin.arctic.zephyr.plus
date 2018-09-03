@@ -2,6 +2,9 @@
 <smartplaylist type="movies">
     <name>Random movie</name>
     <match>all</match>
+    <rule field="lastplayed" operator="notinthelast">
+        <value>1 month</value>
+    </rule>
     <limit>1</limit>
     <order direction="ascending">random</order>
 </smartplaylist>
