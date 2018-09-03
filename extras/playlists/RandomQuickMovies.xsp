@@ -4,7 +4,9 @@
     <match>all</match>
     <rule field="inprogress" operator="false" />
     <rule field="time" operator="lessthan">
-        <value>"90 minutes"</value>
+        <value>01:30:00</value>
     </rule>
-    <limit>10</limit>
+    <rule field="lastplayed" operator="notinthelast">
+        <value>2 weeks</value>
+    <limit>5</limit>
 </smartplaylist>
