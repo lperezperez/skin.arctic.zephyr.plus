@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Short Movies</name>
+    <match>all</match>
+    <rule field="inprogress" operator="false" />
+    <rule field="time" operator="lessthan">
+        <value>"90 minutes"</value>
+    </rule>
+    <limit>10</limit>
+</smartplaylist>
