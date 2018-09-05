@@ -9,6 +9,6 @@
         <value>2 weeks</value>
     </rule>
     <rule field="inprogress" operator="false" />
-    <limit>5</limit>
+    <limit>7</limit>
     <order direction="ascending">random</order>
 </smartplaylist>
