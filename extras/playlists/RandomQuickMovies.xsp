@@ -2,11 +2,13 @@
 <smartplaylist type="movies">
     <name>Short Movies</name>
     <match>all</match>
-    <rule field="inprogress" operator="false" />
     <rule field="time" operator="lessthan">
-        <value>01:30:00</value>
+        <value>01:40:00</value>
     </rule>
     <rule field="lastplayed" operator="notinthelast">
         <value>2 weeks</value>
+    </rule>
+    <rule field="inprogress" operator="false" />
     <limit>5</limit>
+    <order direction="ascending">random</order>
 </smartplaylist>
