@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
     id="skin.arctic.zephyr.plus"
-    version="2.3.10"
+    version="2.3.11"
     name="Arctic: Zephyr +"
     provider-name="jurialmunkey - Mod by KODser">
     <requires>
@@ -57,19 +57,10 @@
         <platform>all</platform>
         <license>Creative Commons Non Commercial 3.0 License</license>
         <forum>http://forum.kodi.tv/showthread.php?tid=307462</forum>
-        <source>https://github.com/KODser/skin.arctic.zephyr.plus</source>
+        <source>https://github.com/alcyone7/skin.arctic.zephyr.plus</source>
         <assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
-			<screenshot>resources/screenshot-01.jpg</screenshot>
-			<screenshot>resources/screenshot-02.jpg</screenshot>
-			<screenshot>resources/screenshot-03.jpg</screenshot>
-			<screenshot>resources/screenshot-04.jpg</screenshot>
-			<screenshot>resources/screenshot-05.jpg</screenshot>
-			<screenshot>resources/screenshot-06.jpg</screenshot>
-			<screenshot>resources/screenshot-07.jpg</screenshot>
-			<screenshot>resources/screenshot-08.jpg</screenshot>
-			<screenshot>resources/screenshot-09.jpg</screenshot>
 		</assets>
     </extension>
 </addon>
