@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <smartplaylist type="movies">
-    <name>Random Movie (Non-Recent)</name>
+    <name>Random Movie</name>
     <match>all</match>
     <rule field="lastplayed" operator="notinthelast">
         <value>1 month</value>
