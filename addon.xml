@@ -3,7 +3,7 @@
     id="skin.arctic.zephyr.plus"
     version="2.3.12"
     name="Arctic: Zephyr +"
-    provider-name="jurialmunkey - Mod by KODser">
+    provider-name="jurialmunkey">
     <requires>
         <import addon="xbmc.gui" version="5.12.0"/>
         <import addon="script.skinshortcuts" version="0.4.0"/>
@@ -15,9 +15,9 @@
         <import addon="script.toolbox" version="1.0.0"/>
         <import addon="plugin.program.autocompletion" version="1.0.1"/>
         <import addon="resource.images.weathericons.white" version="0.0.6"/>
-	<import addon="resource.images.recordlabels.white" version="0.0.7"/>
-	<import addon="resource.images.studios.white" version="0.0.10"/>
-	<import addon="resource.images.studios.coloured" version="0.0.8"/>
+        <import addon="resource.images.recordlabels.white" version="0.0.7"/>
+	      <import addon="resource.images.studios.white" version="0.0.10"/>
+	      <import addon="resource.images.studios.coloured" version="0.0.8"/>
     </requires>
     <extension
     point="xbmc.gui.skin"
@@ -54,13 +54,14 @@
         <description lang="pl">Arctic: Zephyr jest trzecią wersją oryginalnej skóry Arctic stworzonej przez jurialmunkey. Arctic skupia się na prostocie i minimalizmie z lekką dozą szaleństwa.</description>
         <description lang="pt_BR">Arctic: Zephyr é a terceira iteração da interface Arctic criada por jurialmunkey. Arctic foi criada para ser simples, limpa e minimalistica.</description>
         <description lang="ru">Arctic: Zephyr это третий виток обложки Arctic, созданной jurialmunkey. Arctic старается быть простой, опрятной и минималистичной.</description>
+        
         <platform>all</platform>
         <license>Creative Commons Non Commercial 3.0 License</license>
         <forum>http://forum.kodi.tv/showthread.php?tid=307462</forum>
         <source>https://github.com/alcyone7/skin.arctic.zephyr.plus</source>
         <assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
+			      <icon>icon.png</icon>
+			      <fanart>fanart.jpg</fanart>
+		    </assets>
     </extension>
 </addon>
