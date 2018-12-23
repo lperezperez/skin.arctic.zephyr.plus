@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Short Movies</name>
+    <match>all</match>
+    <rule field="time" operator="lessthan">
+        <value>01:40:00</value>
+    </rule>
+    <rule field="lastplayed" operator="notinthelast">
+        <value>2 weeks</value>
+    </rule>
+    <rule field="inprogress" operator="false" />
+    <limit>7</limit>
+    <order direction="ascending">random</order>
+</smartplaylist>
